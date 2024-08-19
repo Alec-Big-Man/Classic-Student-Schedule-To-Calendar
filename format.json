@@ -1,0 +1,16 @@
+{
+    "class" : {
+        "CRN" : "123123",
+        "Course" : "JSON 1001",
+        "Modality" : "Face-to-Face Instruction",
+        "Title" : "Generic Course",
+        "Grade Opt" : "Grade Opt",
+        "Credit Hrs" : "3.00",
+        "Time" : "9:05 AM-9:55 AM",
+        "Days": "MW",
+        "Location": "BUR 100",
+        "Instructor": "John Doe",
+        "Part of Term": "1",
+        "Exam": "CTE"
+    }
+}
